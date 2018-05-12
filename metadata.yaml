@@ -1,0 +1,26 @@
+_repo: Coming-to-Grips-with-White-Knuckles_30948
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30948-h/images/coverpage1.JPG
+creator:
+  author:
+    agent_name: Brown, Paul Cameron
+    alias: Browne, Paul Cameron
+    birthdate: 1948
+    gutenberg_agent_id: '34138'
+    url: http://www.gutenberg.org/2009/agents/34138
+description: ''
+gutenberg_issued: '2010-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30948'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Canadian poetry'
+- !lcc 'PS'
+title: Coming to Grips with White Knuckles
+url: http://www.gutenberg.org/ebooks/30948
